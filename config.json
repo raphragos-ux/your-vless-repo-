@@ -10,9 +10,7 @@
       "settings": {
         "clients": [
           {
-            "id": "78738ecc-a05e-47d5-96a7-2364396030de
-
-",
+            "id":" rafaeltv",
             "flow": "xtls-rprx-vision"
           }
         ],
