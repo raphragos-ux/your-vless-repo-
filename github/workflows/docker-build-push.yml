@@ -20,7 +20,7 @@ jobs:
       # - name: Login to Docker Hub
       #   if: github.ref == 'refs/heads/main'
       #   run: |
-      #     echo "${{ secrets.DOCKER_PASSWORD_rafael092293 }}" | docker login -u "${{ secrets.DOCKER_USERNAME_virgozki }}" --password-stdin
+      #     echo "${{ secrets.DOCKER_rafael092293 }}" | docker login -u "${{ secrets.DOCKER_virgozki }}" --password-stdin
 
       # - name: Push to Docker Hub
       #   if: github.ref == 'refs/heads/main'
